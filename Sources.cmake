@@ -15,6 +15,10 @@ set(ZIP_DEPS_MD5 8bd9a45e1259238c1f6bb277fe6386c0)
 set(ZIP_URL http://downloads.sourceforge.net/project/gnuwin32/zip/${ZIP_VERSION}/zip-${ZIP_VERSION}-bin.zip)
 set(ZIP_MD5 5b268fe06ce5f89bc5762805a7a9d7aa)
 
+set(UTF8CPP_VERSION 2.3.6)
+set(UTF8CPP_URL https://github.com/nemtrif/utfcpp/archive/v${UTF8CPP_VERSION}.tar.gz)
+set(UTF8CPP_MD5 472498a19fb88d25d8010e45a952a044)
+
 set(ZLIB_VERSION 1.2.11)
 set(ZLIB_URL http://downloads.sourceforge.net/project/libpng/zlib/${ZLIB_VERSION}/zlib-${ZLIB_VERSION}.tar.gz)
 set(ZLIB_MD5 1c9f62f0778697a09d36121ead88e08e)

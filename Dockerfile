@@ -50,6 +50,7 @@ RUN apt-get update --assume-yes \
         doxygen \
         ccache \
         coreutils \
+        libutfcpp-dev \
         libpython-dev \
         libfreetype6-dev \
         libglew-dev \

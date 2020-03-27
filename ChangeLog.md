@@ -2,6 +2,12 @@
 
 Notable changes to the FreeOrionSDK project will be documented in this file.
 
+
+## v12 - TBA
+
+- Add utf8cpp library in version 2.3.6
+
+
 ## v11 - 2020-03-08
 
 - Update boost version to 1.70
@@ -14,6 +20,7 @@ Notable changes to the FreeOrionSDK project will be documented in this file.
 - Provide SDK for Windows x86 and x64 CPU architecture.
 - Pin Docker image to a stable and more recent base image
   (docker.io/ubuntu:bionic-20190307).
+
 
 ## v10 - 2018-05-26
 

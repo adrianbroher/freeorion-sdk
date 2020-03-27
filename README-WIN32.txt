@@ -69,3 +69,4 @@ Dependency Versions Included:
 * Python 2.7.14       <https://www.python.org/>
 * Python 3.5.7        <https://www.python.org/>
 * SDL 2.0.8           <https://www.libsdl.org/>
+* UTF8-CPP 2.3.6      <https://github.com/nemtrif/utfcpp>
